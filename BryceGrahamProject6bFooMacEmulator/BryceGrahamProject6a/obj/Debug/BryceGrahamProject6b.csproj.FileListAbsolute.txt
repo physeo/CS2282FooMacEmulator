@@ -1,0 +1,14 @@
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.FooMac.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6b.csproj.GenerateResource.Cache
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.inputBox.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.ProgramEditor.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6b.csprojResolveAssemblyReference.cache
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.exe.config
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.exe
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject6b\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.pdb

@@ -1,0 +1,9 @@
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.exe.config
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.exe
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\bin\Debug\BryceGrahamProject6a.pdb
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.Form1.resources
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.exe
+c:\users\bryce\documents\visual studio 2013\Projects\BryceGrahamProject6a\BryceGrahamProject6a\obj\Debug\BryceGrahamProject6a.pdb

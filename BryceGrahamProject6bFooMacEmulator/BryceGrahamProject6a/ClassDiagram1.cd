@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BryceGrahamProject6a.CPU" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CPU.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="registers" />
+      <Field Name="execute" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BryceGrahamProject6a.Emulator" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAgAAAAABAAAAAQCAAAAgAAAAAIAAAAAAAAE=</HashCode>
+      <FileName>Emulator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mem" />
+      <Field Name="cpu" />
+      <Field Name="program" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BryceGrahamProject6a.InstructionExecutor" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.75" />
+    <Members>
+      <Property Name="PC" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAIAAIgAAACAIBAACGgAEIBABBQACAAACAQA=</HashCode>
+      <FileName>InstructionExecutor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pc" />
+      <Property Name="PC" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BryceGrahamProject6a.InstructionSet" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEIAACACAAAAIAAAACAAAAAAICAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>InstructionSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BryceGrahamProject6a.Memory" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAgAAAAIAACAAAACAIAAAACAAAAA=</HashCode>
+      <FileName>Memory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="memDump" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BryceGrahamProject6a.MemoryDump" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>MemoryDump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BryceGrahamProject6a.ProgramAuthenticator" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAABAAAAQQAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ProgramAuthenticator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BryceGrahamProject6a.ProgramCounter" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BryceGrahamProject6a.Register" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BryceGrahamProject6a.TextFile" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABACgAAAAgAACAAAAAAAAAAAAAIAAAAAAAAQAA=</HashCode>
+      <FileName>TextFile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="authenticator" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
